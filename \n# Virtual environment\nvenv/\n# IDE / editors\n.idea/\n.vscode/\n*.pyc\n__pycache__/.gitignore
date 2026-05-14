@@ -1,0 +1,1 @@
+\n# Virtual environment\nvenv/\n# IDE / editors\n.idea/\n.vscode/\n*.pyc\n__pycache__/\n# environment file (must stay private)\n.env\n
